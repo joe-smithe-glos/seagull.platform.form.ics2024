@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Recommended to use NVM: https://github.com/nvm-sh/nvm
+
+Install that per their docs, then run:
+
+`nvm use 16`
+
+... installing Node 16 as necessary
+
 In the project directory, you can run:
 
 ### `npm start`
